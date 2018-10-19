@@ -5,13 +5,6 @@ def porov(s):
     return True
 
 
-'''def parse(s):
-    nc = ''
-    for c in s:
-        nc += str(ord(c))
-    return nc
-'''
-
 def main(*args):
     l1 = []
     l2 = []
